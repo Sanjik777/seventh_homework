@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\Seventh_homework\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Санжар\source\repos\Seventh_homework\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Санжар\source\repos\Seventh_homework\MyClassLib\obj\Debug\MyClassLib.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Seventh_homework\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Seventh_homework\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Санжар\source\repos\Seventh_homework\MyClassLib\obj\Debug\MyClassLib.pdb

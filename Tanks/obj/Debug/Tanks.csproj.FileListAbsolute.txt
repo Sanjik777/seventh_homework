@@ -1,0 +1,8 @@
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\bin\Debug\Tanks.exe
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\bin\Debug\Tanks.pdb
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\bin\Debug\MyClassLib.dll
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\bin\Debug\MyClassLib.pdb
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\obj\Debug\Tanks.exe
+C:\Users\Санжар\source\repos\Seventh_homework\Tanks\obj\Debug\Tanks.pdb
